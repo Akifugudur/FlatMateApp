@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989551866193",
+    "project_id": "flatmatev4",
+    "storage_bucket": "flatmatev4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989551866193:android:b5238c4ee741e677616370",
+        "android_client_info": {
+          "package_name": "com.example.flatmate_app_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoyyZIF3Dc1xN_ltaqR2mH260HoBcFV6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
