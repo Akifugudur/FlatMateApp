@@ -1,16 +1,26 @@
-# flatmate_app_v3
+# FlatMate
 
-A new Flutter project.
+FlatMate is a Flutter mobile app for shared living: group management, shared expense logging, and a weekly rotating duty system (13 rooms, starts at Room 4, +1 each ISO week).
 
-## Getting Started
+## Features (MVP)
+- Email/password authentication (Firebase Auth)
+- Create/join group (Cloud Firestore)
+- Add & view shared expenses (real-time)
+- Weekly duty rotation (deterministic) with pie chart highlight
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
+1) Install Flutter SDK
+2) Configure Firebase:
+   - `dart pub global activate flutterfire_cli`
+   - `flutterfire configure`
+3) Run:
+   - `flutter pub get`
+   - `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Repository
+Add your public GitHub link here.
