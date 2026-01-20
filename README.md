@@ -23,4 +23,4 @@ FlatMate is a Flutter mobile app for shared living: group management, shared exp
    - `flutter run`
 
 ## Repository
-Add your public GitHub link here.
+(https://github.com/Akifugudur/FlatMateApp.git)
